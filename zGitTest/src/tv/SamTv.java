@@ -7,6 +7,5 @@ public class SamTv {
 		System.out.println(new Date());
 		System.out.println("삼성스마트TV 켰습니다.");
 		System.out.println("채널은 9번");
-		System.out.println("뚜루루뚜룻");
 	}
 }
